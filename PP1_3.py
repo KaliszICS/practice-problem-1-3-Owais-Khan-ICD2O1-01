@@ -13,9 +13,10 @@ def q1():
   type4 = "*       *\n"
   print(type3 + type4 + type4 + type4 + type3)
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
+  
 def q2():
-  print("Hello ", end = "")
-  print("World\n")
+  print("Hello ",end = "")
+  print("World")
 def q3():
   print('"Man"\n"Board"\n"Man Overboard"')
   
